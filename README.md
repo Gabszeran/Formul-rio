@@ -1,5 +1,5 @@
 # Olá!
-## Esse é um formulário simples para cadastro de desenvolvedores.
+## Esse é um projeto de formulário simples para cadastro de desenvolvedores.
 ### Nele contém espaços para o Dev colocar as informações solicitadas, sendo elas:
 - Nome;
 - Sobrenome;
@@ -8,3 +8,5 @@
 - Senioridade;
 - Tecnologias que utiliza,
 - Um pouco da sua experiência.
+<br/>
+Nesse projeto foi utilizado HMTL5 e CSS3.
